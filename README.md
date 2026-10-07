@@ -65,7 +65,7 @@ The exact prompts are in [`prompts.md`](prompts.md).
 
 ## Tools
 
-- **LLMs:** [ADD THE EXACT TOOLS YOU USED, e.g. ChatGPT / Claude / Gemini]
+- **LLMs:** ChatGPT / Claude / Gemini
 - **Techniques:** multi-step prompt chaining, constraint-based prompting ("axes must reflect genuine customer evidence"), manual output validation
 
 ## Key takeaways
